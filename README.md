@@ -1,0 +1,2 @@
+# pyLoraGW
+fake legacy LoraGW
